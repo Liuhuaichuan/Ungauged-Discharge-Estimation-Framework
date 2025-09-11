@@ -26,7 +26,8 @@ This repository provides an open-source implementation of a framework for estima
 
 1. **Fang et al. (2025). Improved water level retrieval in complex riverine environments: Sentinel-3 and Sentinel-6 altimetry over China's rivers.**  
    DOI: https://doi.org/10.1029/2024WR039705
+   
    GitHub: https://github.com/Fangchq/An-improved-waveform-retracking-method/tree/master
 
-2. **Tuozzolo et al. (2019). Estimating River Discharge With Swath Altimetry: A Proof of Concept Using AirSWOT Observations.**  
+3. **Tuozzolo et al. (2019). Estimating River Discharge With Swath Altimetry: A Proof of Concept Using AirSWOT Observations.**  
    DOI: https://doi.org/10.1029/2018GL080771
