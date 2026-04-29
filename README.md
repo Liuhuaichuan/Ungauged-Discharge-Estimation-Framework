@@ -8,6 +8,9 @@ This repository provides an open-source implementation of a framework for estima
 
 - **`src/`**  
   Contains the core modules and functions of the framework.
+  
+- **`width_extraction_procedure/`**  
+  Contains the core codes of the automated width extraction procedure using the SWOT Raster Product.
 
 - **`sample_reach/`**  
   Provides a worked example for reach **73254400101**, demonstrating the discharge estimation process.
